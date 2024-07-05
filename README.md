@@ -36,7 +36,7 @@ Refer to the documentation and project wiki for detailed instructions on setting
 We welcome contributions from the community. If you'd like to contribute to the Slum Vulnerabilities Project, please fork the repository and submit a pull request with your proposed changes. Ensure to follow the project's coding conventions and guidelines.
 
 ## License
-This project is licensed under the [Samagra Foundation] - see the LICENSE file for details.
+This project is licensed under the Samagra Foundation
 
 ## Contact
 For inquiries about the project, reach out to [Samagra Foundation](https://www.samagra.foundation/contact).
