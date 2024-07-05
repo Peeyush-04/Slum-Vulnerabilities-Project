@@ -39,4 +39,4 @@ We welcome contributions from the community. If you'd like to contribute to the 
 This project is licensed under the Samagra Foundation
 
 ## Contact
-For inquiries about the project, reach out to [Samagra Foundation](https://www.samagra.foundation/contact).
+For inquiries about the project, reach out to [Samagra Foundation](https://samagrafoundation.com).
